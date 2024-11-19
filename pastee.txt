@@ -1,0 +1,32 @@
+<div class="container">
+        <div class="navbar">
+            <img src="images/logo.png" class="logo">
+            <nav>
+                <ul>
+                    <!-- <li><a class="bb" href="">Home</a></li> -->
+                    <li><a class="bb" href="newRealse.html">NEW RELEASES</a></li>
+                    <li><a class="bb" href="men.html">MEN</a></li>
+                    <li><a class="bb" href="women.html">WOMEN</a></li>
+                    <li><a class="bb" href="kids.html">KIDS</a></li>
+                    <li><a class="bb" href="contactme.html" target="_blank">CONTACT ME</a></li>
+                    <!-- <li><a class="bb" href="">CATAG</a></li> -->
+                </ul>
+            </nav>
+            <a href=""><i class="fa cart fa-cart-plus"></i></a>
+        </div>
+        <div class="content">
+            <h1><span class="style">nur</span>Sports</h1>
+            <p style="font-size: 45px;">Shoes Store</p>
+            <p style="font-weight:bolder;font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">At our store you will find carefully curated collecction of sport shoes <br>from renowned brands,catering to various sports such as running,<br> basketball,soccer,tennis and more. </p>
+            <div class="text">
+                <!-- 'Lobster', cursive -->
+                <button class="btn"><a href="register.html" target="_blank"style="text-decoration: none;color: white;">Register Now</a></button>
+                <div class="social-media">
+                    <i href="http//www.facebook.com" class="fa icons fa-facebook" target="_blank"></i></a>
+                    <a href="http//www.fa-instagram.com"><i class="fa icons fa-instagram " target="_blank"></i></a>
+                    <a href="http//wwww.fa-twitter"><i class="fa icons fa-twitter "target="_blank"></i></a>
+                </div>
+            </div>
+        </div>
+        <img src="images/nike.png " class="image ">
+    </div>
